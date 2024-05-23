@@ -1,0 +1,6 @@
+﻿OrderID ,CustomerID ,Product ,Quantity ,Price
+1001,C101,Widget A,10,25.50
+1002,C102,Widget B,5,18.75
+1003,C103,Widget A,8,25.50
+1004,C104,Widget C,12,30.00
+1005,C105,Widget B,3,18.75
